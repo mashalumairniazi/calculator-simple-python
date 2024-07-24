@@ -21,3 +21,6 @@ Hopefully my next program will be much more advanced!
    ```bash
    git clone https://github.com/yourusername/fun_calculator.git
    cd fun_calculator
+
+# Contribute!
+Feel free to give me suggestions and tips to improve my skills as I learn!
